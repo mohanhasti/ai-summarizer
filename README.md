@@ -23,7 +23,6 @@ git clone https://github.com/mohanhasti/ai-summarizer.git
 3. Install dependencies
 ```
   pip install -r requirements.txt 
-
 ```
 4. Start the server
 
